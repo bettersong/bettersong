@@ -3,6 +3,6 @@
 
 
 [![bettersong's github stats](https://github-readme-stats.vercel.app/api?username=bettersong&show_icons=true&theme=tokyonight)](https://github.com/bettersong/github-readme-stats) 
-<img src="https://blog-static.cnblogs.com/files/songyao666/nanjiu.gif?t=2" alt="前端南玖" width="500" height="313" align="bottom" />
+<img src="https://blog-static.cnblogs.com/files/songyao666/nanjiu.gif?t=2" alt="前端南玖" width="400" align="bottom" />
 
 
